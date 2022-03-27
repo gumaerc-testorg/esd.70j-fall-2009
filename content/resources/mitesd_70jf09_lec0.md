@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6260c68a-7641-339b-04f7-963f31d4376b
 resourcetype: Document
 title: Session Zero
 uid: fc828bbc-8ae4-2b0b-249b-351a8f09042e

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3117fab8-7d1f-f6d8-726d-691078ed457d
 resourcetype: Document
 title: Excel Self-Assessment Exercise
 uid: b54b2410-3664-acd6-86d2-152facfc6642

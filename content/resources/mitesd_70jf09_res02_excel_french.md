@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 800debff-00e2-1f8c-76c4-e55b1dd05e18
 resourcetype: Document
 title: 'Excel: some English to French translations'
 uid: 1a5c09e5-f9ba-2a39-5644-9559b0a1f8cb

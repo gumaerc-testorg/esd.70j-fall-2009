@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 800debff-00e2-1f8c-76c4-e55b1dd05e18
 resourcetype: Document
 title: Tips for Using OpenOffice Calc for  ESD.70
 uid: a7c765f1-873c-2d66-e760-f33e873c1ad4

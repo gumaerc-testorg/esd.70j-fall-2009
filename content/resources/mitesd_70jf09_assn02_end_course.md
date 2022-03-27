@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3117fab8-7d1f-f6d8-726d-691078ed457d
 resourcetype: Document
 title: 'Excel short course '
 uid: 53948d18-112d-749e-d16a-d9e3821ee337
