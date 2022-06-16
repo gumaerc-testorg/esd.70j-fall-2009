@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides resources on using OpenOffice Calc, and English
+  to French translations.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -20,13 +22,13 @@ RESOURCES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Tips for using OpenOffice Calc, by Nathan Fleming ([PDF]({{< baseurl >}}/resources/mitesd_70jf09_res01_open_office))
+Tips for using OpenOffice Calc, by Nathan Fleming ({{% resource_link a7c765f1-873c-2d66-e760-f33e873c1ad4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Excel: Some English to French translations, by Blandine Laurenty ([PDF]({{< baseurl >}}/resources/mitesd_70jf09_res02_excel_french))
+Excel: Some English to French translations, by Blandine Laurenty ({{% resource_link 1a5c09e5-f9ba-2a39-5644-9559b0a1f8cb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

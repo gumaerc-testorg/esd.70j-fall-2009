@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains a self-assessment exercise that students could
+  use to judge whether they needed to take the course, and an assignment that was
+  due after the end of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -23,13 +26,13 @@ ASSIGNMENTS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Excel self-assessment exercise ([PDF]({{< baseurl >}}/resources/mitesd_70jf09_assn01_self_assess))
+Excel self-assessment exercise ({{% resource_link b54b2410-3664-acd6-86d2-152facfc6642 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-End-of-course assignment ([PDF]({{< baseurl >}}/resources/mitesd_70jf09_assn02_end_course))
+End-of-course assignment ({{% resource_link 53948d18-112d-749e-d16a-d9e3821ee337 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

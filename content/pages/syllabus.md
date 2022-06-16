@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides an introduction to the course, information
+  on meeting times, and the schedule of lecture topics and activities.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
