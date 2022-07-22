@@ -5,6 +5,7 @@ file: /courses/esd-70j-engineering-economy-module-fall-2009/38397aef971af988ef07
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Session 4-2
 uid: 38397aef-971a-f988-ef07-e8ab526eb0f7
 ---
 Supporting file for a lecture on analyzing flexibility and other topics.
-

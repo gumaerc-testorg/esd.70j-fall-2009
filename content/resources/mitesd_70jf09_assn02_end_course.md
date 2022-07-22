@@ -5,6 +5,7 @@ file: /courses/esd-70j-engineering-economy-module-fall-2009/53948d18112d749ed16a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Excel short course '
 uid: 53948d18-112d-749e-d16a-d9e3821ee337
 ---
 End-of-course assignment on data analysis using Excel.
-

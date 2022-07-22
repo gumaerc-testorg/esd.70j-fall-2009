@@ -7,6 +7,7 @@ file: /courses/esd-70j-engineering-economy-module-fall-2009/1c610901c86e62fbe5cc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Session Two
 uid: 1c610901-c86e-62fb-e5cc-1e555297b7ed
 ---
 Lecture presentation on simulation, generating random numbers, Monte Carlo simulation, setting up simulation using Data Table, generating statistics for simulation, drawing histograms, and the cumulative distribution function (CDF).
-

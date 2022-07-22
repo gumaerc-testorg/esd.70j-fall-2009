@@ -5,6 +5,7 @@ file: /courses/esd-70j-engineering-economy-module-fall-2009/dec1ac3ed011754f7675
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Session 1-2
 uid: dec1ac3e-d011-754f-7675-27f936d18c1f
 ---
 Supporting file for a lecture on NPV and sensitivity analysis.
-
