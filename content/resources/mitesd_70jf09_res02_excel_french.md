@@ -2,6 +2,7 @@
 content_type: resource
 description: English to French translations useful for using Excel for the course.
 file: /courses/esd-70j-engineering-economy-module-fall-2009/1a5c09e5f9ba2a3956449559b0a1f8cb_MITESD_70Jf09_res02_excel_french.pdf
+file_size: 87169
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

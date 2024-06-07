@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting file for a lecture on analyzing flexibility and other topics.
 file: /courses/esd-70j-engineering-economy-module-fall-2009/b497cc82b1b8d5c63abcd40983403f6c_ESD70session4_1.xls
+file_size: 382464
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes

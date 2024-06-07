@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting file for a lecture on Excel beginners.
 file: /courses/esd-70j-engineering-economy-module-fall-2009/693754084d6e6857f67e11796f022ea8_ESD70session0_2.xls
+file_size: 41984
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
