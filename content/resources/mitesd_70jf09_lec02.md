@@ -4,6 +4,7 @@ description: Lecture presentation on simulation, generating random numbers, Mont
   Carlo simulation, setting up simulation using Data Table, generating statistics
   for simulation, drawing histograms, and the cumulative distribution function (CDF).
 file: /courses/esd-70j-engineering-economy-module-fall-2009/1c610901c86e62fbe5cc1e555297b7ed_MITESD_70Jf09_lec02.pdf
+file_size: 81219
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

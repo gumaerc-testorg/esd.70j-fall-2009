@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting file for a lecture on modeling uncertainties.
 file: /courses/esd-70j-engineering-economy-module-fall-2009/3d3d014a05295df117f7481592fab942_ESD70session3_1Part1.xls
+file_size: 182272
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: "Lecture presentation with an introduction to the course, a course 
   \ an introduction to Excel, and discussion of base case construction \r\nand sensitivity\
   \ analysis."
 file: /courses/esd-70j-engineering-economy-module-fall-2009/5fa0b84793362aca263cb900be59ba34_MITESD_70Jf09_lec01.pdf
+file_size: 208879
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

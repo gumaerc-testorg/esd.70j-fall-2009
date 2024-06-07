@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting file for a lecture on NPV and sensitivity analysis.
 file: /courses/esd-70j-engineering-economy-module-fall-2009/dec1ac3ed011754f767527f936d18c1f_ESD70session1_2.xls
+file_size: 110592
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
