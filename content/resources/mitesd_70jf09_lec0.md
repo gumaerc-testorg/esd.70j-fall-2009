@@ -3,6 +3,7 @@ content_type: resource
 description: Introductory lecture presentation intended to prepare students to use
   Excel for modeling and analysis.
 file: /courses/esd-70j-engineering-economy-module-fall-2009/fc828bbc8ae42b0b249b351a8f09042e_MITESD_70Jf09_lec0.pdf
+file_size: 56342
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
