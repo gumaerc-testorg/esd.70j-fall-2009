@@ -3,7 +3,7 @@ content_type: resource
 description: Graphical result of computing average growth rate and volatility for
   Google stocks, based on original stock price data. See the Session 3 lecture and
   spreadsheets in the Lecture Notes section. (Figure by MIT OpenCourseWare.)
-file: /courses/esd-70j-engineering-economy-module-fall-2009/6d7fbb84c2f211e21d52c6ad7df4aaf7_esd-70jf09.jpg
+file: /ol-ocw-studio-app/courses/esd-70j-engineering-economy-module-fall-2009/6d7fbb84c2f211e21d52c6ad7df4aaf7_esd-70jf09.jpg
 file_size: 58694
 file_type: image/jpeg
 image_metadata:
