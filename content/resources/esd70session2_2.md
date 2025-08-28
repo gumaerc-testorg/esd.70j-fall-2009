@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for a lecture on simulation.
-file: /courses/esd-70j-engineering-economy-module-fall-2009/b8d48ab8eacfd95cbef9538e87577929_ESD70session2_2.xls
+file: /ol-ocw-studio-app/courses/esd-70j-engineering-economy-module-fall-2009/b8d48ab8eacfd95cbef9538e87577929_ESD70session2_2.xls
 file_size: 290816
 file_type: application/msword
 learning_resource_types:

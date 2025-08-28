@@ -4,7 +4,7 @@ description: Lecture presentation on modeling uncertainty, generating random num
   from various distributions (normal, lognormal, etc.), generating and understanding
   random variables that evolve through time (stochastic processes), geometric Brownian
   motion, mean reversion, and S-curves.
-file: /courses/esd-70j-engineering-economy-module-fall-2009/939cf72f69798b8fa9144a556e380dbe_MITESD_70Jf09_lec03.pdf
+file: /ol-ocw-studio-app/courses/esd-70j-engineering-economy-module-fall-2009/939cf72f69798b8fa9144a556e380dbe_MITESD_70Jf09_lec03.pdf
 file_size: 232943
 file_type: application/pdf
 learning_resource_types:
