@@ -11,7 +11,7 @@ uid: 6260c68a-7641-339b-04f7-963f31d4376b
 
 This course is built around recitation-style sessions, in which lecture material alternates with students trying out the spreadsheet techniques they are learning. There are two versions of each spreadsheet, one set up before the class for the students to work in (session 1-1, for example), and one that reflects the completed work (session 1-2).
 
-The material in this section will be updated periodically on [Professor de Neufville's ESD.70J Web site](https://ardent.mit.edu/).
+The material in this section will be updated periodically on {{% resource_link "5b240e12-9b71-4aca-b679-20741e6d07d7" "Professor de Neufville's ESD.70J Web site" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
