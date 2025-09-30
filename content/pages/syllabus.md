@@ -8,7 +8,7 @@ title: Syllabus
 uid: 37cb0255-e6b0-df35-d52b-dc3797109c85
 ---
 
-This MIT OpenCourseWare site is based on the materials from [Professor de Neufville's ESD.70J Web site](https://ardent.mit.edu/).
+This MIT OpenCourseWare site is based on the materials from {{% resource_link "5b240e12-9b71-4aca-b679-20741e6d07d7" "Professor de Neufville's ESD.70J Web site" %}}.
 
 Course Meeting Times
 --------------------
